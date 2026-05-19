@@ -1,0 +1,182 @@
+[
+  {
+    "user_id": "u001",
+    "message": "Hello, I want to know more about grants for education.",
+    "created_at": "2026-05-01 10:15:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u002",
+    "message": "Please send me the report again.",
+    "created_at": "2026-05-01 11:20:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "u001",
+    "message": "Can you help me find deadlines for funding?",
+    "created_at": "2026-05-01 12:05:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u003",
+    "message": "What scholarships are available for international students?",
+    "created_at": "2026-05-01 13:00:00",
+    "channel": "telegram"
+  },
+  {
+    "user_id": "u004",
+    "message": "Can you send me the document with the funding details?",
+    "created_at": "2026-05-01 13:45:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "u002",
+    "message": "Where can I find the application form?",
+    "created_at": "2026-05-01 14:10:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "u005",
+    "message": "I need the report for last month.",
+    "created_at": "2026-05-01 14:30:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u003",
+    "message": "What is the deadline for the spring grant?",
+    "created_at": "2026-05-01 15:00:00",
+    "channel": "telegram"
+  },
+  {
+    "user_id": "u006",
+    "message": "how do I apply for a scholarship?",
+    "created_at": "2026-05-01 15:20:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u001",
+    "message": "Can you send me the grant report? I need it urgently.",
+    "created_at": "2026-05-01 15:45:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u007",
+    "message": "why was my application rejected?",
+    "created_at": "2026-05-01 16:00:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "u004",
+    "message": "Is there any funding available for research projects?",
+    "created_at": "2026-05-01 16:15:00",
+    "channel": "telegram"
+  },
+  {
+    "user_id": "u005",
+    "message": "Please resend the file from yesterday.",
+    "created_at": "2026-05-01 16:30:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "u008",
+    "message": "Good afternoon!",
+    "created_at": "2026-05-01 16:45:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u006",
+    "message": "What documents do I need to apply for a grant?",
+    "created_at": "2026-05-01 17:00:00",
+    "channel": "telegram"
+  },
+  {
+    "user_id": "u002",
+    "message": "   ",
+    "created_at": "2026-05-01 17:10:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "",
+    "message": "Can I get more information about the scholarship program?",
+    "created_at": "2026-05-01 17:20:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u009",
+    "message": "",
+    "created_at": "2026-05-01 17:25:00",
+    "channel": "telegram"
+  },
+  {
+    "user_id": "u007",
+    "message": "   send again   ",
+    "created_at": "2026-05-01 17:30:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "u010",
+    "message": "How can I check the status of my grant application?",
+    "created_at": "2026-05-01 17:45:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u008",
+    "message": "I am looking for funding opportunities for my startup.",
+    "created_at": "2026-05-01 18:00:00",
+    "channel": "telegram"
+  },
+  {
+    "user_id": "u003",
+    "message": "What is the maximum amount for the education grant?",
+    "created_at": "2026-05-01 18:15:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "u011",
+    "message": "ok thanks",
+    "created_at": "2026-05-01 18:20:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u009",
+    "message": "Please send the document again, I didn't receive it.",
+    "created_at": "2026-05-01 18:30:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "u010",
+    "message": "Are there any grants for women in technology?",
+    "created_at": "2026-05-01 18:45:00",
+    "channel": "telegram"
+  },
+  {
+    "user_id": "u005",
+    "message": "What is the difference between a grant and a scholarship?",
+    "created_at": "2026-05-01 19:00:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u012",
+    "message": "can you help me understand the deadline requirements for the funding application?",
+    "created_at": "2026-05-01 19:15:00",
+    "channel": "email"
+  },
+  {
+    "user_id": "u006",
+    "message": "I need the annual report file.",
+    "created_at": "2026-05-01 19:30:00",
+    "channel": "telegram"
+  },
+  {
+    "user_id": "u011",
+    "message": "Where do I submit my scholarship application?",
+    "created_at": "2026-05-01 19:45:00",
+    "channel": "whatsapp"
+  },
+  {
+    "user_id": "u012",
+    "message": "Thank you, that's all I needed.",
+    "created_at": "2026-05-01 20:00:00",
+    "channel": "email"
+  }
+]
