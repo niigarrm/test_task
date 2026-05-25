@@ -1,0 +1,28 @@
+user_id,message,created_at,channel,category
+u001,"Hello, I want to know more about grants for education.",2026-05-01 10:15:00,whatsapp,grant_search
+u002,Please send me the report again.,2026-05-01 11:20:00,email,report_request
+u001,Can you help me find deadlines for funding?,2026-05-01 12:05:00,whatsapp,grant_search
+u003,What scholarships are available for international students?,2026-05-01 13:00:00,telegram,grant_search
+u004,Can you send me the document with the funding details?,2026-05-01 13:45:00,email,report_request
+u002,Where can I find the application form?,2026-05-01 14:10:00,email,general_question
+u005,I need the report for last month.,2026-05-01 14:30:00,whatsapp,report_request
+u003,What is the deadline for the spring grant?,2026-05-01 15:00:00,telegram,grant_search
+u006,how do I apply for a scholarship?,2026-05-01 15:20:00,whatsapp,grant_search
+u001,Can you send me the grant report? I need it urgently.,2026-05-01 15:45:00,whatsapp,report_request
+u007,why was my application rejected?,2026-05-01 16:00:00,email,general_question
+u004,Is there any funding available for research projects?,2026-05-01 16:15:00,telegram,grant_search
+u005,Please resend the file from yesterday.,2026-05-01 16:30:00,email,report_request
+u008,Good afternoon!,2026-05-01 16:45:00,whatsapp,unknown
+u006,What documents do I need to apply for a grant?,2026-05-01 17:00:00,telegram,report_request
+u007,send again,2026-05-01 17:30:00,email,report_request
+u010,How can I check the status of my grant application?,2026-05-01 17:45:00,whatsapp,grant_search
+u008,I am looking for funding opportunities for my startup.,2026-05-01 18:00:00,telegram,grant_search
+u003,What is the maximum amount for the education grant?,2026-05-01 18:15:00,email,grant_search
+u011,ok thanks,2026-05-01 18:20:00,whatsapp,unknown
+u009,"Please send the document again, I didn't receive it.",2026-05-01 18:30:00,email,report_request
+u010,Are there any grants for women in technology?,2026-05-01 18:45:00,telegram,grant_search
+u005,What is the difference between a grant and a scholarship?,2026-05-01 19:00:00,whatsapp,grant_search
+u012,can you help me understand the deadline requirements for the funding application?,2026-05-01 19:15:00,email,grant_search
+u006,I need the annual report file.,2026-05-01 19:30:00,telegram,report_request
+u011,Where do I submit my scholarship application?,2026-05-01 19:45:00,whatsapp,grant_search
+u012,"Thank you, that's all I needed.",2026-05-01 20:00:00,email,unknown

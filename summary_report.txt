@@ -1,0 +1,30 @@
+==================================================
+MESSAGE CLASSIFICATION SUMMARY
+==================================================
+
+Total valid messages: 27
+
+Messages per category:
+  grant_search       13
+  report_request     9
+  unknown            3
+  general_question   2
+
+Messages per channel:
+  whatsapp           10
+  email              10
+  telegram           7
+
+Messages per user:
+  u001               3
+  u003               3
+  u005               3
+  u006               3
+  u002               2
+  u004               2
+  u007               2
+  u008               2
+  u010               2
+  u011               2
+  u012               2
+  u009               1
